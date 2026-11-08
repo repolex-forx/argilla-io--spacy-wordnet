@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/argilla-io/spacy-wordnet/commit/fddfb6f1f3cdf86e5fbac16f650dba5f2cd01055",
       "git:hexsha": "fddfb6f1f3cdf86e5fbac16f650dba5f2cd01055",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T02:17:22.796149+00:00"
     },
     {
       "@id": "https://repolex.ai/r/argilla-io/spacy-wordnet/commit/e505c25dd2b3a60080e032dddd694b513aa26eb2",
