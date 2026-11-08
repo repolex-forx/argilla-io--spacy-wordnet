@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "argilla-io",
+  "repo": "spacy-wordnet",
+  "versions": [
+    {
+      "commit": "fddfb6f1f3cdf86e5fbac16f650dba5f2cd01055",
+      "parsed_at": "2026-11-08T02:15:13.768445+00:00",
+      "filetree": "filetree/fddfb6f1f3cdf86e5fbac16f650dba5f2cd01055.nq.gz",
+      "blobs": [
+        "blob/db4bde2fa5455a9ea1c781f932df07fe4581a34b.nq.gz",
+        "blob/9fa27b4bda3a25b9ddb48fe1546e284efc43f6ad.nq.gz",
+        "blob/1c52195338c0ba9487b2ffc1ecf1e165aab79349.nq.gz",
+        "blob/871950df3f80fa9315dcec169c6af0a0a000f62e.nq.gz",
+        "blob/398cc10ccfb0aa5ebeae2aebaf87e1b03f637d02.nq.gz",
+        "blob/226e6f59313909fc91249cb261f86ee5fa25daa5.nq.gz",
+        "blob/dda9a2f67cd45b1e83e38c9a27bbb22f30966e47.nq.gz",
+        "blob/a9b359606522fef07a757612f9b6dca0ba468b99.nq.gz",
+        "blob/0353919948fef671ab56674df41153a2c515cf3f.nq.gz",
+        "blob/5a3f5e148f23c122054e251d381de1b28707e1fc.nq.gz",
+        "blob/215bd885f69471b9b74ab45fe69ae0f7c5a13d4a.nq.gz",
+        "blob/fb33e1dc3d48f50b8a482ec746d2a5c8d0271018.nq.gz",
+        "blob/2633141cc0d06a8f82f3a9cc4b3325893f693e4a.nq.gz",
+        "blob/39f890f7f214ffe47e898013cb319abc143bfdca.nq.gz",
+        "blob/828ef2ba0a7eb7ed354b8603abbb5e4aec7a1055.nq.gz",
+        "blob/cd8e0913a8fa9ba3a03696eb3f0a03730d14a485.nq.gz",
+        "blob/c0c48084003391b60a5283322fb50cf631d05dd8.nq.gz",
+        "blob/3c963632027b176c1146e6cca3b2d1aab781d766.nq.gz",
+        "blob/5cfb9efc0c81bc28a79ff18f9e2dae1c0be23025.nq.gz",
+        "blob/44c1a13c34ce4cd36e45230d8e1b9c573c587c66.nq.gz",
+        "blob/9e44b5a284c9c258550f9ea713de7c5f5c02d440.nq.gz",
+        "blob/9c1e06caee4a89fe979f98c16103587a9c2b4eb9.nq.gz",
+        "blob/2683bb0d49a3f6553966b6f6cc228a7c61307aa2.nq.gz",
+        "blob/4179ad7e296edfc00d0aaeb9f0b988f673f0926e.nq.gz",
+        "blob/3989c5130411f77da5198a165361ea1b8b2fc1de.nq.gz",
+        "blob/f7ba63503dacf4df6691ae626bdd0f933c6983e4.nq.gz",
+        "blob/91d63cd1fef6eaf55706be2eff6e96e3882bc061.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
