@@ -1,0 +1,11 @@
+{
+  "org": "argilla-io",
+  "repo": "spacy-wordnet",
+  "versions": [
+    {
+      "commit": "fddfb6f1f3cdf86e5fbac16f650dba5f2cd01055",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:17:22.910984+00:00"
+    }
+  ]
+}
